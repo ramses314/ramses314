@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [TicketCrush](example)
 
-- 💬 Ask me about **django, fastapi, sql, pythin**
+- 💬 Ask me about **django, fastapi, sql, python**
 
 - 📫 How to reach me **forwork31415@gmail.com**
 
