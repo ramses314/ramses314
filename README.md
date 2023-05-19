@@ -3,7 +3,8 @@
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramses314&label=Profile%20views&color=0e75b6&style=flat" alt="ramses314" /> </p>
+<iframe src="https://gifer.com/embed/6sHG" width=480 height=415.422 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramses314&label=Profile%20views&color=0e75b6&style=flat" alt="ramses314" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramses314" alt="ramses314" /></a> </p> -->
 
