@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate backend developer on python from Russia</h3>
-<img align="center" alt="Coding" width="333" src="https://ie.wampi.ru/2023/05/22/2YZ.gif">
+<img align="center" alt="Coding" width="333" src="https://ic.wampi.ru/2023/05/22/2YZ-1.gif">
 
 - 🔭 I’m currently working on [TicketCrush](example)
 
