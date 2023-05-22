@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate backend developer on python from Russia</h3>
-<img align="center" alt="Coding" width="333" src="https://i.postimg.cc/dthNPzWX/6sHG.gif">
+<img align="center" alt="Coding" width="333" src="https://i.gifer.com/2YZ.gif">
 
 
-<iframe src="https://gifer.com/embed/6sHG" width=480 height=415.422 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
-
+<iframe src="https://i.gifer.com/2YZ.gif" width=480 height=415.422 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<iframe src="https://gifer.com/embed/2YZ" width=480 height=204.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 - 🔭 I’m currently working on [TicketCrush](example)
 
 - 💬 Ask me about **django, fastapi, sql, python**
