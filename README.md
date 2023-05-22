@@ -4,9 +4,6 @@
 
 
 <iframe src="https://gifer.com/embed/6sHG" width=480 height=415.422 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramses314&label=Profile%20views&color=0e75b6&style=flat" alt="ramses314" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramses314" alt="ramses314" /></a> </p> -->
 
 - 🔭 I’m currently working on [TicketCrush](example)
 
